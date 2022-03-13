@@ -7,7 +7,7 @@ namespace Filtest
         static void Main(string[] args)
         {
             Random rnd = new Random();
-            String path = @"..\..\..\tekstfil.txt"; //Filen skal placeres i: Source/Repos/Filtest/Filtest/bin/Debug/net5.0
+            String path = @"..\..\..\tekstfil.txt"; //Filen skal placeres i: Source/Repos/Filtest
             String[] tekst = File.ReadAllLines(path); //Alle filens linjer indlæses i Array'et 'tekst'
             for (int i = 0; i < tekst.Length; i++) 
             {
