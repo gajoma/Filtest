@@ -1,6 +1,6 @@
 1. Bøf med bløde løg, sovs og kartofler
 2. Hjemmelavet Pizza
-3. Burgere
+3. Snegleburgere
 4. Cottage pie
 5. Flæskesteg
 6. Kylling/champignon tærte
@@ -10,4 +10,5 @@
 10.Lasagne
 11.Suppe
 12.Pandekager
-13. Regnormeburger
+13.Regnormeburger
+14.Chihuahuapizza
