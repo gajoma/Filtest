@@ -3,7 +3,7 @@
 3. Snegleburgere
 4. Cottage pie
 5. Flæskesteg
-6. Kylling/champignon tærte
+6. Killing/champignon tærte
 7. Frikadeller med stuvet kål
 8. Haletudsekebab
 9. Pasta Carbonara
@@ -13,3 +13,4 @@
 13.Regnormeburger
 14.Chihuahuapizza
 15.Paddehotdog
+16. Friturestegte rosenkål
